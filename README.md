@@ -5,7 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=kritikasharma4&label=Profile%20views&color=ff69b4&style=flat" alt="kritikasharma4" />
 </p>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="screenshot" width="400" src="https://github.com/kritikasharma4/kritikasharma4/raw/main/Screenshot%202025-09-05%20015254.png" style="border-radius:20px;">
+
 
 
 
